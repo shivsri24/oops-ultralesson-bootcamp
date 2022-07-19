@@ -1,4 +1,4 @@
-package objects;
+package com.octrix.oops.objects;
 
 import java.util.*;
 
